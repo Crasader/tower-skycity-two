@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>def</key>
+	<string>防御</string>
+	<key>get</key>
+	<string>获得</string>
+	<key>getEquip</key>
+	<string>获取装备</string>
+	<key>gold</key>
+	<string>金币</string>
+	<key>hp</key>
+	<string>血量</string>
+	<key>key_1</key>
+	<string>黄钥匙</string>
+	<key>key_2</key>
+	<string>蓝钥匙</string>
+	<key>key_3</key>
+	<string>红钥匙</string>
+	<key>level</key>
+	<string>等级</string>
+	<key>none</key>
+	<string>没有</string>
+	<key>str</key>
+	<string>攻击</string>
+	<key>xp</key>
+	<string>经验</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>def</key>
+	<string>防御</string>
+	<key>get</key>
+	<string>获得</string>
+	<key>getEquip</key>
+	<string>获取装备</string>
+	<key>gold</key>
+	<string>金币</string>
+	<key>hp</key>
+	<string>血量</string>
+	<key>jiaji</key>
+	<string>type:Text---text:夹击|color:{255,0,0}</string>
+	<key>jiangu</key>
+	<string>type:Text---text:坚固|color:{255,0,0}</string>
+	<key>jinghua</key>
+	<string>type:Text---text:净化|color:{255,0,0}</string>
+	<key>key_1</key>
+	<string>黄钥匙</string>
+	<key>key_2</key>
+	<string>蓝钥匙</string>
+	<key>key_3</key>
+	<string>红钥匙</string>
+	<key>level</key>
+	<string>等级</string>
+	<key>lianji</key>
+	<string>type:Text---text:连击|color:{255,0,0}</string>
+	<key>mogong</key>
+	<string>type:Text---text:魔攻|color:{255,0,0}</string>
+	<key>none</key>
+	<string>没有</string>
+	<key>str</key>
+	<string>攻击</string>
+	<key>xiangong</key>
+	<string>type:Text---text:先攻|color:{255,0,0}</string>
+	<key>xixue</key>
+	<string>type:Text---text:吸血|color:{255,0,0}</string>
+	<key>xp</key>
+	<string>经验</string>
+	<key>zuji</key>
+	<string>type:Text---text:阻击|color:{255,0,0}</string>
+</dict>
+</plist>
